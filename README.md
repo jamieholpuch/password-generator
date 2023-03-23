@@ -19,3 +19,7 @@ Click on the red "generate password" button and follow the prompts to select you
 ## License
 
 Please refer to the LICENSE listed in the repository. 
+
+## Collaborators
+
+Portions of this code was sourced and adapted from additional exercises within the Bootcamp curriculum/exercises. 
